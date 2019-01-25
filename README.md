@@ -39,6 +39,7 @@ Evaluation Method is the same as SQuAD dataset, [code here](https://worksheets.c
 |rnn-based-6000| opennmt-py |char-based|0.500 | 0.663 | 0.000 |
 |rnn-based-48000| opennmt-py |char-based|0.505 | 0.673 | 0.0015 |
 |rnn-based-48000| opennmt-py |reactants-based|0.0098 | 0.0126 | 0.0015 |
+|rnn-based-big-24000| opennmt-py |reactants-based|0.0139 | 0.0185 | 0.0000 |
 
 #### Useful Paper and Code:
 
