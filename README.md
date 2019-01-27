@@ -43,8 +43,8 @@ Evaluation Method is the same as SQuAD dataset, [code here](https://worksheets.c
 
 #### Useful Paper and Code:
 
-《Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models》
+1.《Retrosynthetic Reaction Prediction Using Neural Sequence-to-Sequence Models》
 
-《Found in Translation Predicting Outcomes of Complex Organic Chemistry Reactions using Neural Sequence to Sequence Models》
+2.《Found in Translation Predicting Outcomes of Complex Organic Chemistry Reactions using Neural Sequence to Sequence Models》
 
 
